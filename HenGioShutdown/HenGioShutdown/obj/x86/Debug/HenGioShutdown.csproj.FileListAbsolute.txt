@@ -1,0 +1,17 @@
+c:\users\tien\documents\visual studio 2010\Projects\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.Form1.resources
+c:\users\tien\documents\visual studio 2010\Projects\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.Properties.Resources.resources
+c:\users\tien\documents\visual studio 2010\Projects\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.csproj.GenerateResource.Cache
+c:\users\tien\documents\visual studio 2010\Projects\HenGioShutdown\HenGioShutdown\bin\Debug\HenGioShutdown.exe
+c:\users\tien\documents\visual studio 2010\Projects\HenGioShutdown\HenGioShutdown\bin\Debug\HenGioShutdown.pdb
+c:\users\tien\documents\visual studio 2010\Projects\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.exe
+c:\users\tien\documents\visual studio 2010\Projects\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.pdb
+C:\Users\TIEN\Documents\Visual Studio 2010\Projects\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.csprojResolveAssemblyReference.cache
+E:\C#\HenGioShutdown\HenGioShutdown\bin\Debug\HenGioShutdown.exe
+E:\C#\HenGioShutdown\HenGioShutdown\bin\Debug\HenGioShutdown.pdb
+E:\C#\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.csproj.AssemblyReference.cache
+E:\C#\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.Form1.resources
+E:\C#\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.Properties.Resources.resources
+E:\C#\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.csproj.GenerateResource.cache
+E:\C#\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.csproj.CoreCompileInputs.cache
+E:\C#\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.exe
+E:\C#\HenGioShutdown\HenGioShutdown\obj\x86\Debug\HenGioShutdown.pdb
